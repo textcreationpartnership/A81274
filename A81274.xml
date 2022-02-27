@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of His Majesties sugar plantations.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81274</idno>
+            <idno type="STC">Wing C919A</idno>
+            <idno type="STC">ESTC R173523</idno>
+            <idno type="EEBO-CITATION">45504389</idno>
+            <idno type="OCLC">ocm 45504389</idno>
+            <idno type="VID">171691</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81274)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171691)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2587:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of His Majesties sugar plantations.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1677?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sugar trade --  Great Britain --  Early works to 1800.</term>
+               <term>Industries --  Great Britain --  Colonies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:171691:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 25 -->
+            <head>THE CASE OF HIS MAJESTIES Sugar Plantations.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Efore <hi>England</hi> had any Sugar Planta<g ref="char:EOLhyphen"/>tions of its own, <hi>Portugal</hi> had a<g ref="char:EOLhyphen"/>bout Four Hundred Thouſand Pounds <hi>per Annum</hi> for Sugar from <hi>England,</hi> to the great Inriching of <hi>Portugal</hi> and Impoveriſhing of <hi>England.</hi>
+            </p>
+            <p>The <hi>Portugeeze</hi> having ſet High Cuſtoms upon their Sugars, and letting none Trade at <hi>Braſil</hi> but themſelves, gave the <hi>Engliſh</hi> Encouragement to Adventure upon Planting it, who have ſo increaſed, that they not only Sup<g ref="char:EOLhyphen"/>ply <hi>England</hi> with all the Sugar it wants, whereby 400000 <hi>l.</hi> paid <hi>Portugal</hi> formerly for Sugar is ſaved; but great Quantities of Sugars have been Tranſported to Foreign Markets, to the vaſt increaſe of the Wealth of the Kingdom, and by conſequence the value of the Lands of <hi>England.</hi>
+            </p>
+            <p>In the Trade to the <hi>Engliſh Sugar Plantations,</hi> about 400 Sail of <hi>Engliſh Ships</hi> and 8000 <hi>Seamen</hi> are annually Employed.</p>
+            <p>All the Ships that go from <hi>England</hi> are Loaden with Manufactures and Proviſions for the Supply of the Plan<g ref="char:EOLhyphen"/>tations, with Cloaths, Tools, and Utenſils, and Victu<g ref="char:EOLhyphen"/>al, which all pay Cuſtom to the King outward, and on which many Families in <hi>England</hi> do ſubſiſt.</p>
+            <p>
+               <pb n="2" facs="tcp:171691:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 26 -->
+The Planters have at their Coſt, brought above 100000 Negroes from <hi>Affrica,</hi> whereby ſo many New Subjects are added to the Crown.</p>
+            <p>The <hi>French King</hi> taking Notice of the great Wealth and Strength the Sugar Plantations bring to the Kingdom of <hi>England,</hi> and alſo of the difficulties the <hi>Engliſh Plantati<g ref="char:EOLhyphen"/>ons</hi> are under, by reaſon of the Acts of Trade and Navi<g ref="char:EOLhyphen"/>gation, which enjoyning all the Sugars of the <hi>Engliſh Plantations</hi> to be brought home to <hi>England,</hi> and there to be Landed, and pay the King a Cuſtom before it can be Tranſported to any Forreign Markets, which is a great Charge, hath thought it feazible, and with great Application hath ſet himſelf to become Maſter of that Trade; and the <hi>Dutch</hi> have done the ſame, and grant<g ref="char:EOLhyphen"/>ing more eaſe to their Planters, in producing and diſpoſing of their Sugars, than the <hi>Engliſh</hi> have, the <hi>French</hi> are ſo far increaſed, that their Sugar Plantations, which are <hi>Martinico, Guadeloupe, Marigalant, Grenados,</hi> St. <hi>Chriſtophers, Kayan,</hi> and part of <hi>Hiſpaniola,</hi> do already find an Employment for Two hundred Sail of Ships, and Seamen proportionable, andare increaſing daily: And the <hi>Dutch</hi> have already many Ships annually Loaden with Sugar from <hi>Surinam,</hi> which they make a Buſineſs of State to Improve.</p>
+            <p>This Increaſe of the Sugar Trade of the <hi>French</hi> and <hi>Dutch,</hi> hath brought thoſe Sugars that were worth be<g ref="char:EOLhyphen"/>tween 5 and 6 <hi>l.</hi> the Hundred Weight, when the laſt <hi>Book of Rates</hi> was made, to be worth now not above 35 <hi>s.</hi> out of which the Planter pays 5 <hi>s.</hi> Cuſtom, and 4½ <hi>per</hi> Hundred to the King in the Plantations; inſomuch that an Eſtate that was formerly worth 2000 <hi>l. per Annum</hi> in the Plantations, is not now worth 600 <hi>l. per Annum;</hi> and if any further Impoſition be laid, will yield little or no<g ref="char:EOLhyphen"/>thing, to the undoing many Thouſand <hi>Engliſh</hi> Families, many of which reſide in <hi>England;</hi> for which Reaſon the
+<pb n="3" facs="tcp:171691:2"/>
+               <!-- PDF PAGE 26 -->
+Planters intended to have Addreſs'd to this <hi>Parliament,</hi> for reducing the <hi>Book of Rates</hi> to the preſent <hi>Value</hi> of <hi>Sugars.</hi>
+            </p>
+            <p>This low Value of the Commodity cauſes the Inhabi<g ref="char:EOLhyphen"/>tants of the <hi>Engliſh Colonies</hi> to forſake them, and remove to other places, whilſt the King of <hi>France</hi> uſeth all Ima<g ref="char:EOLhyphen"/>ginable Induſtry to ſtrengthen and fill his Plantations; (ſome of which are in ſight of ours) with Inhabitants, having made <hi>Dunkirk</hi> a Free Port for his own Sugars, where no Cuſtoms are paid in or out; by reaſon of which the Markets of <hi>Flanders</hi> and <hi>Holland,</hi> &amp;c. are furniſhed with <hi>French Sugars</hi> at 2 <hi>s.</hi> 6 <hi>d. per</hi> Hundred cheaper than the <hi>Engliſh</hi> can, by reaſon of the Acts of Trade and Na<g ref="char:EOLhyphen"/>vigation.</p>
+            <p>This Increaſe of the Strength of the <hi>French Plantations</hi> and decreaſe of the <hi>English,</hi> hath made many of the Plant<g ref="char:EOLhyphen"/>ers conſider of with-drawing their Stocks, for fear if a War ſhould happen with <hi>France</hi> all would be loſt.</p>
+            <p>The <hi>English</hi> Sugar Trade being apparently decaying under the preſent Impoſitions upon Sugar, can by no means bear more and ſubſiſt; and it is of great advan<g ref="char:EOLhyphen"/>tage to <hi>France</hi> to have our Plantations ruined by more Impoſitions on their Sugars: for ſhould the <hi>French</hi> gain the Sugar Trade from the <hi>English, England</hi> would loſe the Imployment of 400 Sail of Ships and 8000 Seamen, and <hi>France</hi> would gain it, which would differ the preſent Ballance of Seamen 16000, beſides the loſs of a Native Commodity, that hath brought ſo much Wealth to the Kingdom, and would alſo be the loſs of the Trade of <hi>Africa</hi> for Negro's.</p>
+            <p>It hath been ever the Practice and Policy of Trading Nations, to ſet the Publick Taxes on Foreign Commodi<g ref="char:EOLhyphen"/>ties and not thoſe of their own growth.</p>
+            <p>In the time of the Uſurper <hi>Cromwell,</hi> when all things
+<pb n="4" facs="tcp:171691:3"/>
+               <!-- PDF PAGE 27 -->
+were raked into to find a Revenue to ſupport his Uſur<g ref="char:EOLhyphen"/>pation, no Exciſe was put on Sugars of the growth of the <hi>English</hi> Plantations.</p>
+            <p>
+               <hi>England</hi> is an Iſland whoſe Wealth and Strength con<g ref="char:EOLhyphen"/>ſiſts in Trade, which cannot be preſerved but by being Maſter at Sea; and the Plantation Trade is near one half of the Navigation of <hi>England,</hi> and whether it be ſo con<g ref="char:EOLhyphen"/>venient to hazard the loſs of it by over-burthening it, ſince an Impoſition may be ſet on Commodities of Foreign growth, that will be equivalent, is humbly ſubmitted.</p>
+            <p>And whereas ſome ſeem to be of Opinion that an Im<g ref="char:EOLhyphen"/>poſition will fall upon the Buyer only, and not hurt the Planter, it is a Miſtake for the Reaſons following.</p>
+            <p>For it was found by Experience in the time of the late Rebellion, when there was an Exciſe impoſed, the Buyer refuſed to buy Commodities of the Importer, unleſs he would clear the Exciſe, ſo that the Importer came gene<g ref="char:EOLhyphen"/>rally to pay the Exciſe as well as the Cuſtoms. And it is well known that all Commodities are in Value as there is a greater or leſſer quantity of them at the Market. If the Impoſition doth not leſſen the quantity of Sugar imported, it cannot raiſe the price, and then by conſe<g ref="char:EOLhyphen"/>quence the Impoſition muſt be born wholly by the Planter. If it doth leſſen the quantity of Sugar import<g ref="char:EOLhyphen"/>ed, it leſſens the Imployment of our Shipping and Sea<g ref="char:EOLhyphen"/>men, and the Kings Revenue, and will conſtrain thoſe Planters who are forced to leave Making Sugar, to for<g ref="char:EOLhyphen"/>ſake the Plantations, as having no Imployment there; which will ſo weaken them of Defendants, as they will be in hazard to become a prey to the <hi>French</hi> or their own Negro's; which will be a total loſs of that Trade to this Kingdom, and be the ruin of many Thouſand <hi>English</hi> Families, vvho in <hi>England</hi> and the Plantations ſubſiſted by that Trade of making Sugar, or by fur<g ref="char:EOLhyphen"/>niſhing Cloaths, Tools and Utenſils.</p>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
